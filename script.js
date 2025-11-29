@@ -1,6 +1,6 @@
 const PHONE_NUMBER = "2349160368712"; // Your WhatsApp number
 const GROUP_LINK = "https://chat.whatsapp.com/FunOE9HNsXcKfoHQ88gDQN?mode=wwt"; // WhatsApp group
-const WEBSITE_LINK = "https://your-site-link.example"; // Replace with deployed site
+const WEBSITE_LINK = "https://flexi-spec.github.io/Flexi-Dev-Studio-/"; // Replace with deployed site
 
 const SHARE_MESSAGE = encodeURIComponent(
   `🚀 Welcome to Flexi Dev Studio — a vibrant community where ideas meet action! Whether you are a developer, designer, creator, or someone passionate about learning and innovation, this is the place to grow and build. Join our active Flexi Dev Studio group here: ${GROUP_LINK} to collaborate, share ideas, and stay updated, connect with me personally on WhatsApp: https://wa.me/${PHONE_NUMBER}, and explore our projects and resources on our website: ${WEBSITE_LINK}. Let's come together, inspire each other, and turn our creative visions into reality. Your journey to learning, networking, and creating amazing projects starts here!`
